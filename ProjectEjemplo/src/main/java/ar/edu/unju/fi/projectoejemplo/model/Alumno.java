@@ -6,7 +6,7 @@ public class Alumno {
 	private int edad;
 	
 	public Alumno() {
-		// TODO Auto-generated constructor stub
+		libreta = "sin asignar";
 	}
 
 	public Alumno(String nombre, String libreta, int edad) {
