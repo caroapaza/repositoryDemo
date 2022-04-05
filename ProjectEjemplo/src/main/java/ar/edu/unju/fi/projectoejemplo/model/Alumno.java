@@ -10,7 +10,9 @@ public class Alumno {
 	private int edad;
 	
 	public Alumno() {
-		// valores por defecto
+
+		libreta = "sin asignar";
+
 	}
 
 	public Alumno(String nombre, String libreta, int edad) {
